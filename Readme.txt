@@ -10,7 +10,7 @@ ReactRouter
 Для запуска необходимо установить последнюю Node.js
 NPM
 
-git clone 
+git clone https://github.com/Artlashmanov/TaskManager-React-Redux.git
 
 npm run build
 
